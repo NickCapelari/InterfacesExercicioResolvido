@@ -1,0 +1,15 @@
+D:\Curso.Net\InterfacesExercicioResolvido\InterfacesExercicioResolvido\bin\Debug\net6.0\InterfacesExercicioResolvido.exe
+D:\Curso.Net\InterfacesExercicioResolvido\InterfacesExercicioResolvido\bin\Debug\net6.0\InterfacesExercicioResolvido.deps.json
+D:\Curso.Net\InterfacesExercicioResolvido\InterfacesExercicioResolvido\bin\Debug\net6.0\InterfacesExercicioResolvido.runtimeconfig.json
+D:\Curso.Net\InterfacesExercicioResolvido\InterfacesExercicioResolvido\bin\Debug\net6.0\InterfacesExercicioResolvido.dll
+D:\Curso.Net\InterfacesExercicioResolvido\InterfacesExercicioResolvido\bin\Debug\net6.0\InterfacesExercicioResolvido.pdb
+D:\Curso.Net\InterfacesExercicioResolvido\InterfacesExercicioResolvido\obj\Debug\net6.0\InterfacesExercicioResolvido.csproj.AssemblyReference.cache
+D:\Curso.Net\InterfacesExercicioResolvido\InterfacesExercicioResolvido\obj\Debug\net6.0\InterfacesExercicioResolvido.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso.Net\InterfacesExercicioResolvido\InterfacesExercicioResolvido\obj\Debug\net6.0\InterfacesExercicioResolvido.AssemblyInfoInputs.cache
+D:\Curso.Net\InterfacesExercicioResolvido\InterfacesExercicioResolvido\obj\Debug\net6.0\InterfacesExercicioResolvido.AssemblyInfo.cs
+D:\Curso.Net\InterfacesExercicioResolvido\InterfacesExercicioResolvido\obj\Debug\net6.0\InterfacesExercicioResolvido.csproj.CoreCompileInputs.cache
+D:\Curso.Net\InterfacesExercicioResolvido\InterfacesExercicioResolvido\obj\Debug\net6.0\InterfacesExercicioResolvido.dll
+D:\Curso.Net\InterfacesExercicioResolvido\InterfacesExercicioResolvido\obj\Debug\net6.0\refint\InterfacesExercicioResolvido.dll
+D:\Curso.Net\InterfacesExercicioResolvido\InterfacesExercicioResolvido\obj\Debug\net6.0\InterfacesExercicioResolvido.pdb
+D:\Curso.Net\InterfacesExercicioResolvido\InterfacesExercicioResolvido\obj\Debug\net6.0\InterfacesExercicioResolvido.genruntimeconfig.cache
+D:\Curso.Net\InterfacesExercicioResolvido\InterfacesExercicioResolvido\obj\Debug\net6.0\ref\InterfacesExercicioResolvido.dll
